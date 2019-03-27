@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1552565873 source:/home/ahmed/Documents/codeblocks/EncryptionDecryption/help.c
+	"help.h"
+
+1552566145 /home/ahmed/Documents/codeblocks/EncryptionDecryption/help.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<malloc.h>
+	<complex.h>
+
+1552574349 source:/home/ahmed/Documents/codeblocks/EncryptionDecryption/main.c
+	"help.h"
+
